@@ -1,11 +1,12 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Agentic Engineering, Supercharged
 
-To start the slide show:
+A [Slidev](https://sli.dev) presentation about agentic coding in 2026.
 
-- `pnpm install`
-- `pnpm dev`
-- visit <http://localhost:3030>
+## Run
 
-Edit the [slides.md](./slides.md) to see the changes.
+```bash
+pnpm install
+pnpm dev
+```
 
-Learn more about Slidev at the [documentation](https://sli.dev/).
+Open [localhost:3030](http://localhost:3030).
