@@ -67,16 +67,16 @@
       <div style="display: flex; gap: 0.5rem; align-items: flex-start; padding: 0.55rem 0.65rem; border: 1px solid rgba(227,6,19,0.15); background: rgba(227,6,19,0.04); border-radius: 8px;">
         <span style="color: rgba(227,6,19,0.8); font-weight: 800; font-size: 0.75rem; min-width: 0.8rem;">−</span>
         <div>
-          <div style="font-size: 0.82rem; font-weight: 600;">Fight the agent</div>
-          <div style="font-size: 0.65rem; opacity: 0.45; margin-top: 0.1rem;">If it keeps going in the wrong direction, don't argue with it. Start a new session with better instructions.</div>
+          <div style="font-size: 0.82rem; font-weight: 600;">Use it for everything</div>
+          <div style="font-size: 0.65rem; opacity: 0.45; margin-top: 0.1rem;">Not every task needs an agent. Bumping a dependency or fixing a typo is faster by hand. Reach for it when it saves time, not out of habit.</div>
         </div>
       </div>
 
       <div style="display: flex; gap: 0.5rem; align-items: flex-start; padding: 0.55rem 0.65rem; border: 1px solid rgba(227,6,19,0.15); background: rgba(227,6,19,0.04); border-radius: 8px;">
         <span style="color: rgba(227,6,19,0.8); font-weight: 800; font-size: 0.75rem; min-width: 0.8rem;">−</span>
         <div>
-          <div style="font-size: 0.82rem; font-weight: 600;">Ignore the costs</div>
-          <div style="font-size: 0.65rem; opacity: 0.45; margin-top: 0.1rem;">API billing adds up. Watch your token usage. Use cheaper models for exploration, expensive ones for precision work.</div>
+          <div style="font-size: 0.82rem; font-weight: 600;">Expose secrets</div>
+          <div style="font-size: 0.65rem; opacity: 0.45; margin-top: 0.1rem;">Agents read your codebase — including .env files, credentials, and API keys. They can also commit and push them. Lock down what the agent can access.</div>
         </div>
       </div>
 

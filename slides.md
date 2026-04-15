@@ -16,6 +16,14 @@ Agentic coding in 2026
 </div>
 
 ---
+layout: default
+---
+
+# How we got here
+
+<ErasSlide />
+
+---
 layout: center
 ---
 
